@@ -1,6 +1,1 @@
-Test Dulu cuy
-
-list :
-1.Sigma
-2.Gyatt
-3.Rizz
+lorem ipsum dolor sit amet
