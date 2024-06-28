@@ -1,4 +1,6 @@
 Test Dulu cuy
 
 list :
-1.Skibdi
+1.Sigma
+2.Gyat
+3.Rizz
